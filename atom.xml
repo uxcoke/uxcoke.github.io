@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://uxcoke.com/"/>
   <updated>2016-05-26T02:08:38.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://uxcoke.com/</id>
   
   <author>
     <name>digua</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/hello-world/"/>
-    <id>http://yoursite.com/hello-world/</id>
+    <link href="http://uxcoke.com/hello-world/"/>
+    <id>http://uxcoke.com/hello-world/</id>
     <published>2016-05-26T02:08:38.000Z</published>
     <updated>2016-05-26T02:08:38.000Z</updated>
     
